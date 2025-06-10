@@ -1,0 +1,1 @@
+# fanuc-eixo-raiado-gl240m
